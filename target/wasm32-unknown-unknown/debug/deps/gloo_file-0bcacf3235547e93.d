@@ -1,0 +1,11 @@
+C:\Users\hugho\dev\hello-wasm\target\wasm32-unknown-unknown\debug\deps\gloo_file-0bcacf3235547e93.rmeta: C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\hugho\dev\hello-wasm\target\wasm32-unknown-unknown\debug\deps\libgloo_file-0bcacf3235547e93.rlib: C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\hugho\dev\hello-wasm\target\wasm32-unknown-unknown\debug\deps\gloo_file-0bcacf3235547e93.d: C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\lib.rs:
+C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\blob.rs:
+C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_list.rs:
+C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\file_reader.rs:
+C:\Users\hugho\.cargo\registry\src\github.com-1ecc6299db9ec823\gloo-file-0.2.3\src\object_url.rs:
